@@ -1,4 +1,4 @@
-### Hey there My name is Lucas Ito👋
+### Hey there. My name is Lucas Ito👋
 - I'm Student of Fatec Lins
 - I'm formed in Etec de Lins ADS
 ### My Stack
@@ -7,3 +7,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![BootsTrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### How to reach me
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
