@@ -1,6 +1,6 @@
-### Hey there 👋
-
-- 📫 How to reach me: lucastoshihiroito28@gmail.com
+### Hey there My name is Lucas Ito👋
+- I'm Student of Fatec Lins
+- I'm formed in Etec de Lins ADS
 ### My Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
