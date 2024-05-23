@@ -2,7 +2,8 @@
 My name is Lucas Ito
 - I'm Student of Fatec Lins
 - I'm formed in Etec de Lins ADS
-![Lucas Ito GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+####
+![Lucas Ito GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasito028&hide=contribs,prs)
 ### My Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
