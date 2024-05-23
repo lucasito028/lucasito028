@@ -1,10 +1,10 @@
 ### Hey there 👋👋
 My name is Lucas Ito
-- I'm Student of Fatec Lins
-- I'm formed in Etec de Lins ADS
+- Undergraduate student at Fatec Lins 
+- Technician in Systems Analysis and Development at Centro Paula Souza in Lins
 ####
 ![Lucas Ito GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasito028&hide=contribs,prs)
-### My Stack
+### My Stack: Languages, Tools, and more.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
