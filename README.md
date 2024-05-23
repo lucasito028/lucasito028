@@ -1,5 +1,5 @@
 ### Hey there 👋👋
-<h2>My name is Lucas Ito</h2>h2>
+<h2>My name is Lucas Ito</h2>
 - Undergraduate student at Fatec Lins 
 - Technician in Systems Analysis and Development at Centro Paula Souza in Lins
 ####
