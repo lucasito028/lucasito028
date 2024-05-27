@@ -5,7 +5,9 @@ My name is Lucas Ito
 ####
 ![Lucas Ito GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasito028&hide=contribs,prs)
 ####
+<!--
 ![Lucas Ito GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasito028&theme=blue-green)
+-->
 ### My Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
