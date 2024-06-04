@@ -19,5 +19,5 @@ My name is Lucas Ito
 
 ### How to Reach Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-toshihiro-ito-7a1b7a226/)](https://www.linkedin.com/in/lucas-toshihiro-ito-7a1b7a226/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucastoshihiroito28@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucastoshihiroito28@gmail.com)](mailto:lucastoshihiroito28@gmail.com)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
